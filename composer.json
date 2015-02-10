@@ -1,0 +1,14 @@
+{
+    "name"       : "catalin/seo",
+    "description": "Catalin seo filter module",
+    "type"       : "magento-module",
+    "authors"    : [
+        {
+            "name" : "Catalin Ciobanu",
+            "email": ""
+        }
+    ],
+    "require"    : {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
